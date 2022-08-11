@@ -35,3 +35,23 @@ Style the top app bar
 
 Style the labels
 
+Change the typeface of the login screen
+
+Adjust elevation
+
+Change product grid elevation
+
+Change card elevation (and color)
+
+Change the elevation of the Next button
+
+Change the layout
+
+Another theme (Yelloew Theme)
+
+
+
+
+
+
+
